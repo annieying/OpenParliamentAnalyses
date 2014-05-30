@@ -1,4 +1,4 @@
-The data in this directory is extracted using the site's REST API.  A REST API returns data in JSON format.  The site's API is accessed by prefixing URLs with api.openparliament.ca (as opposed to simply openparliament.ca).  
+The data in this directory is extracted from the OpenParliment site's REST API.  The REST API conveniently returns files in JSON format.  The site's API is accessed by prefixing URLs with api.openparliament.ca (as opposed to simply openparliament.ca).  
 
 For example, go to
 http://api.openparliament.ca/politicians/stephen-harper/ for a web page explaining the query result for Stephen
