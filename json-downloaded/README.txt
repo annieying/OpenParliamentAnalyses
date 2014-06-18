@@ -7,4 +7,4 @@ To get the data directly in the JSON format, you just add ?format=json at the
 end of the string, (i.e., http://api.openparliament.ca/politicians/stephen-harper/?format=json).
 This JSON file corresponding to Harper is in data/politicians/ if you unzip data.tar.gz.
 
-Unfortunately the information here is a bit dated as they are downloaded on Sept 24, 2014.  The next step will be to download the most update-to-date information.
+The data was downloaded on June 18, 2014.
