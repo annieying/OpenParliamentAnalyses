@@ -33,6 +33,7 @@ def get_bills_recurse(url_suffix, i):
             print "Error in loading JSON file:%s"%(bill_file)
             print "Try specifying the complete path"
             
+
     print "loaded data " + url
     new_url_suffix = data["pagination"]["next_url"]
     if new_url_suffix:
